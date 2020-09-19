@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lyngrams/static/css/main.90aab458.chunk.css",
-    "main.js": "/lyngrams/static/js/main.5e6ee293.chunk.js",
-    "main.js.map": "/lyngrams/static/js/main.5e6ee293.chunk.js.map",
+    "main.css": "/lyngrams/static/css/main.fafc6218.chunk.css",
+    "main.js": "/lyngrams/static/js/main.7cec0382.chunk.js",
+    "main.js.map": "/lyngrams/static/js/main.7cec0382.chunk.js.map",
     "runtime-main.js": "/lyngrams/static/js/runtime-main.b9d845fe.js",
     "runtime-main.js.map": "/lyngrams/static/js/runtime-main.b9d845fe.js.map",
-    "static/js/2.2fa078f7.chunk.js": "/lyngrams/static/js/2.2fa078f7.chunk.js",
-    "static/js/2.2fa078f7.chunk.js.map": "/lyngrams/static/js/2.2fa078f7.chunk.js.map",
+    "static/js/2.370c5048.chunk.js": "/lyngrams/static/js/2.370c5048.chunk.js",
+    "static/js/2.370c5048.chunk.js.map": "/lyngrams/static/js/2.370c5048.chunk.js.map",
     "index.html": "/lyngrams/index.html",
-    "precache-manifest.62e04ea8248bc3a959db680acec79127.js": "/lyngrams/precache-manifest.62e04ea8248bc3a959db680acec79127.js",
+    "precache-manifest.a29e6d191566c863226dced4853d1290.js": "/lyngrams/precache-manifest.a29e6d191566c863226dced4853d1290.js",
     "service-worker.js": "/lyngrams/service-worker.js",
-    "static/css/main.90aab458.chunk.css.map": "/lyngrams/static/css/main.90aab458.chunk.css.map",
-    "static/js/2.2fa078f7.chunk.js.LICENSE.txt": "/lyngrams/static/js/2.2fa078f7.chunk.js.LICENSE.txt"
+    "static/css/main.fafc6218.chunk.css.map": "/lyngrams/static/css/main.fafc6218.chunk.css.map",
+    "static/js/2.370c5048.chunk.js.LICENSE.txt": "/lyngrams/static/js/2.370c5048.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b9d845fe.js",
-    "static/js/2.2fa078f7.chunk.js",
-    "static/css/main.90aab458.chunk.css",
-    "static/js/main.5e6ee293.chunk.js"
+    "static/js/2.370c5048.chunk.js",
+    "static/css/main.fafc6218.chunk.css",
+    "static/js/main.7cec0382.chunk.js"
   ]
 }
