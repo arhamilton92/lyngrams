@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee8f3e3512933db01a08c1aa2e01ce7d",
+    "revision": "fb7db0665ad17d35970f58f702693a36",
     "url": "/lyngrams/index.html"
   },
   {
-    "revision": "a2cbb6c2633a1bd04fcd",
+    "revision": "552320d53c87fbb17005",
     "url": "/lyngrams/static/css/main.fafc6218.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lyngrams/static/js/2.d8e0a32a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a2cbb6c2633a1bd04fcd",
-    "url": "/lyngrams/static/js/main.3d5282ff.chunk.js"
+    "revision": "552320d53c87fbb17005",
+    "url": "/lyngrams/static/js/main.8b7c5dac.chunk.js"
   },
   {
     "revision": "1eab89a6c39ff54a4b80",
