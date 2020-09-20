@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import Grams from '../grams.js';
 
 const GramItem = () => {
@@ -18,7 +18,7 @@ const GramItem = () => {
         }
 
     return (
-        <div>
+        <Fragment>
             <div className="container-fluid parent">
                 <div className="row w-75 mt-5 align-center">
                     <div className="col parent">
@@ -31,7 +31,7 @@ const GramItem = () => {
                     </div>  
                 </div>
             </div>
-        </div>
+        </Fragment>
     )
 }
 
