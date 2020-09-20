@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lyngrams/precache-manifest.a29e6d191566c863226dced4853d1290.js"
+  "/lyngrams/precache-manifest.0f05bf7142ed1f898fbd2d379d332bae.js"
 );
 
 self.addEventListener('message', (event) => {
