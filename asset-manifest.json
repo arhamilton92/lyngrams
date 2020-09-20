@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lyngrams/static/css/main.fafc6218.chunk.css",
-    "main.js": "/lyngrams/static/js/main.9a018f95.chunk.js",
-    "main.js.map": "/lyngrams/static/js/main.9a018f95.chunk.js.map",
+    "main.js": "/lyngrams/static/js/main.3d5282ff.chunk.js",
+    "main.js.map": "/lyngrams/static/js/main.3d5282ff.chunk.js.map",
     "runtime-main.js": "/lyngrams/static/js/runtime-main.b9d845fe.js",
     "runtime-main.js.map": "/lyngrams/static/js/runtime-main.b9d845fe.js.map",
     "static/js/2.d8e0a32a.chunk.js": "/lyngrams/static/js/2.d8e0a32a.chunk.js",
     "static/js/2.d8e0a32a.chunk.js.map": "/lyngrams/static/js/2.d8e0a32a.chunk.js.map",
     "index.html": "/lyngrams/index.html",
-    "precache-manifest.423e7f416e7bcfe9d6ea696d417d2d6c.js": "/lyngrams/precache-manifest.423e7f416e7bcfe9d6ea696d417d2d6c.js",
+    "precache-manifest.26a9d742dbbf341986c6d1da08022bef.js": "/lyngrams/precache-manifest.26a9d742dbbf341986c6d1da08022bef.js",
     "service-worker.js": "/lyngrams/service-worker.js",
     "static/css/main.fafc6218.chunk.css.map": "/lyngrams/static/css/main.fafc6218.chunk.css.map",
     "static/js/2.d8e0a32a.chunk.js.LICENSE.txt": "/lyngrams/static/js/2.d8e0a32a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b9d845fe.js",
     "static/js/2.d8e0a32a.chunk.js",
     "static/css/main.fafc6218.chunk.css",
-    "static/js/main.9a018f95.chunk.js"
+    "static/js/main.3d5282ff.chunk.js"
   ]
 }
