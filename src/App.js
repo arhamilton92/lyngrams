@@ -10,7 +10,7 @@ import OpenGram from './components/OpenGram'
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <BrowserRouter>
             <Route exact path='/' component={ GramItem }></Route>
             <Route exact path='/open' component={ OpenGram }></Route>
       </BrowserRouter>
