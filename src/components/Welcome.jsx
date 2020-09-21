@@ -12,7 +12,7 @@ const Welcome = () => {
                 <div>
                     {grams.map(gram => (
                         <CSSTransition key={gram.username} timeout={500} classNames="item">
-                            <a href={`http://localhost:3000/${gram.username}`}>{gram.username}</a>
+                            <a href={`https://fathomless-springs-17684.herokuapp.com/${gram.username}`}>{gram.username}</a>
                         </CSSTransition>
                     ))}
                 </div>
